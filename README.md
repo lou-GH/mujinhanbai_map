@@ -1,24 +1,32 @@
-# README
+# 無人販売MAP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+<無人販売所の場所や生産者が商品を入れた日時が分かるサイト>
 
-Things you may want to cover:
+### テーマを選んだ理由
+<親戚が農家をやっていることや親がよく無人販売所を利用するため身近だったが、自分を含め若い世代の無人販売所の利用はあまり聞かないため、利用促進ができるようなサービスがあれば便利だと考え、このテーマにしました。>
 
-* Ruby version
+### ターゲットユーザ
+<若者、無人販売所を利用したことがない人、無人販売所を行う生産者>
 
-* System dependencies
+### 主な利用シーン
+<生産者側：商品販売時、購入者側：近くの無人販売所を知りたい時、新しく商品が入れられたことを知りたい時>
 
-* Configuration
+## 実装機能リスト
+<https://docs.google.com/spreadsheets/d/1LOXcamjR99YEq_8JLJdXd8QeYfO0E2rm7G-ku-iCrIA/edit?usp=share_link>
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
